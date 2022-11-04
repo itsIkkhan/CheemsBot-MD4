@@ -73,10 +73,10 @@ global.packname = "💙Ikram khan💙 Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄
 global.author = "🦄💙Ikram khan💙" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./https://i.imgur.com/STiC5sS.jpeg") //ur thumb pic
+global.log0 = fs.readFileSync("./https://i.imgur.com/STiC5sS.jpeg") //ur logo pic
+global.err4r = fs.readFileSync("./https://i.imgur.com/STiC5sS.jpeg") //ur error pic
+global.thumb = fs.readFileSync("./https://i.imgur.com/STiC5sS.jpeg") //ur thumb pic
 
 //damtabase
 global.premium = ['923193619280'] //ur premium numbers
@@ -100,7 +100,7 @@ global.autorep = []
 global.ntilink = []
 
 //omther
-global.sessionName = 'session'
+global.sessionName = '💙ᎥᏦᏒᏗᎷ ᏦᏂᏗᏁ💙'
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -133,7 +133,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('./https://i.imgur.com/STiC5sS.jpeg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
